@@ -579,7 +579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 813443fe9efb3b143902f0eea975de23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 100
+  movementSpeed: 150
   joystick: {fileID: 858765647}
 --- !u!114 &910532288
 MonoBehaviour:
@@ -593,7 +593,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75dcf6bf64aa4cc49dc025171530dc3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationSpeed: 4
+  rotationSpeed: 5
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
