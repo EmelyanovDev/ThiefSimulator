@@ -1,6 +1,6 @@
-﻿using Camera;
-using UI;
+﻿using UI;
 using UnityEngine;
+using View;
 
 namespace Player
 {
